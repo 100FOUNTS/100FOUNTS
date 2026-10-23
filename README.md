@@ -1,12 +1,18 @@
 # Hi, I'm Juan 👋
 
-Founder of **[100 Founts](https://100founts.com)**, a software studio in Australia. We build web products and AI automation, in English and Spanish.
+Software engineer with 5+ years of experience building mission-critical applications in the financial sector. Today I'm the founder of **[100 Founts](https://100founts.com)**, a software studio where I help small businesses and founders turn ideas into working products, in English and Spanish.
 
 ## What I work on
 
-- Websites and web products with Next.js, React, TypeScript and Tailwind
-- Agents and workflows with [Claude Code](https://claude.com/claude-code)
-- Shopify stores and sites for small businesses
+- **Web products and MVPs** with Next.js, React, TypeScript and Tailwind, built to validate an idea quickly and then scale
+- **Automation and AI tools**: automated workflows and AI-assisted customer support, built with [Claude Code](https://claude.com/claude-code)
+- **Shopify stores** and sites for small businesses
+
+## Background
+
+- Contributed to Porvenir's mobile app and Grupo AVAL's Payment Portal
+- Stack from that work: Java, Spring Boot, Angular, Oracle / PL/SQL, AWS
+- Agile (Scrum) teams; clean, maintainable, scalable code
 
 ## Public project
 
