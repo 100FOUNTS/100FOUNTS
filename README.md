@@ -8,6 +8,16 @@ Software engineer with 5+ years of experience building mission-critical applicat
 - **Automation and AI tools**: automated workflows and AI-assisted customer support, built with [Claude Code](https://claude.com/claude-code)
 - **Shopify stores** and sites for small businesses
 
+## Tech stack
+
+- **Languages:** TypeScript, JavaScript, Python, Java, SQL, Liquid, PHP, Shell
+- **Frontend:** Next.js, React, Astro, Vite, Tailwind CSS, shadcn/ui, Radix, TanStack Query, Zustand, next-intl (i18n)
+- **Backend and data:** Supabase (Postgres), Stripe, Resend, Zod; Spring Boot and Oracle from earlier work
+- **AI:** Claude Code, Anthropic SDK, OpenAI SDK, agent workflows and skills
+- **Commerce and CMS:** Shopify (theme development on Horizon), WordPress (block themes)
+- **Quality and observability:** Playwright, Vitest, Sentry, PostHog, ESLint, Prettier
+- **Infrastructure:** Cloudflare Pages, AWS, Git and GitHub
+
 ## Background
 
 - Contributed to Porvenir's mobile app and Grupo AVAL's Payment Portal
