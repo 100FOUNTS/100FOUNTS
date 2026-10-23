@@ -14,7 +14,7 @@ Fundador de **[100 Founts](https://100founts.com)**, un estudio de software en A
 
 ## Contacto
 
-🌐 [100founts.com](https://100founts.com)
+🌐 [100founts.com](https://100founts.com) · 💼 [LinkedIn](https://www.linkedin.com/in/juan-cifuentes-orbegozo/)
 
 ---
 
@@ -23,3 +23,5 @@ Fundador de **[100 Founts](https://100founts.com)**, un estudio de software en A
 Founder of **[100 Founts](https://100founts.com)**, a software studio in Australia. We build web products and AI automation, in English and Spanish.
 
 **Public project:** [job-harness](https://github.com/100FOUNTS/job-harness), a Claude Code harness for job searching in Australia, with fact-checked CVs and cover letters.
+
+**Contact:** 🌐 [100founts.com](https://100founts.com) · 💼 [LinkedIn](https://www.linkedin.com/in/juan-cifuentes-orbegozo/)
