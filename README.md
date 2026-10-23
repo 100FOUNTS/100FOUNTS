@@ -1,6 +1,6 @@
 # Hi, I'm Juan 👋
 
-**Software and AI Engineer · Data Science.** 5+ years of experience building mission-critical applications in the financial sector. Today I'm the founder of **[100 Founts](https://100founts.com)**, a software studio where I help small businesses and founders turn ideas into working products, in English and Spanish.
+**Software and AI Engineer · Data Science.** Almost 4 years building enterprise applications in the financial sector, then freelance since 2023. Today I'm the founder of **[100 Founts](https://100founts.com)**, a software studio where I help small businesses and founders turn ideas into working products, in English and Spanish.
 
 ## What I work on
 
